@@ -1,0 +1,32 @@
+# Gradle
+.gradle/
+/build/
+/*/build/
+
+# IDE / Android Studio
+.idea/
+*.iml
+local.properties
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Built binaries & packages
+*.apk
+*.aar
+*.aab
+*.dex
+*.class
+
+# Keystores & sensitive config
+*.jks
+*.keystore
+google-services.json
+
+# Log & profiling output
+*.log
+*.hprof
+
+# OS files
+.DS_Store
+Thumbs.db
